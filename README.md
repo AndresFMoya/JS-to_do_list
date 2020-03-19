@@ -3,7 +3,8 @@
 </p>
 <br>
 
-This project consist of making a tic-tac-toe game that can be played on the browser.
+This project consist of using Webpack, JavaScript modules and OOP to build a todo list app.
+
 
 ## Technologies used
 
